@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Richino Archer</h1>
 <h3 align="center">A passionate full stack developer from the US</h3>
 
-- 🔭 I’m currently working on [Instagram clone](https://github.com/Richino/instagramclone)
+- 🔭 I’m currently working on an [Instagram clone](https://github.com/Richino/instagramclone)
 
-- 🌱 I’m currently learning **Nextjs, React, Typescript and Python**
+- 🌱 I’m currently learning: **Nextjs, React, Typescript and Python**.
 
-- 💬 Ask me about **Nextjs, React, JavaScript and Typescript**
+- 💬 Ask me about: **Nextjs, React, JavaScript and Typescript**.
 
 - 📫 How to reach me: **archerrichino@gmail.com**
 
